@@ -38,13 +38,6 @@
 
 ---
 
-## 📌 En ce moment
-- Renforcement des bases **full-stack**
-- Projets en équipe (workflow Git, issues, branches)
-- Amélioration continue (clean code, bonnes pratiques, tests quand possible)
-
----
-
 ## 📫 Me contacter
 - LinkedIn : www.linkedin.com/in/alc-tymy
 - Email : alc.theclech@gmail.com

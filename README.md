@@ -31,11 +31,8 @@
 ## 🧩 Projets (sélection)
 
 - 🕹️ **Memory (JS)** — jeu type “Memory” en HTML/CSS/JavaScript  
-  Repo : [lien repo]
 - 💰 **Site d’enchères** — Java / Spring Boot + SQL Server (projet en équipe)  
-  Repo : [lien repo]
 - 📅 **Organisation d’événements** — PHP / Symfony + MySQL (projet en équipe)  
-  Repo : [lien repo]
 - 🌐 **Portfolio** — mes projets et parcours  
   Site : https://tymy.fr
 
@@ -49,9 +46,9 @@
 ---
 
 ## 📫 Me contacter
-- LinkedIn : [ton lien LinkedIn]
+- LinkedIn : www.linkedin.com/in/alc-tymy
 - Email : alc.theclech@gmail.com
-- GitHub : https://github.com/[ton-username]
+- GitHub : https://github.com/ALC-Tymy
 
 ---
 

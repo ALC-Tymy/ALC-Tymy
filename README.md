@@ -28,7 +28,7 @@
 
 ---
 
-## 🧩 Projets (sélection)
+## 🧩 Projets 
 
 - 🕹️ **Memory (JS)** — jeu type “Memory” en HTML/CSS/JavaScript  
 - 💰 **Site d’enchères** — Java / Spring Boot + SQL Server (projet en équipe)  

@@ -1,48 +1,86 @@
-# 👋 Salut, moi c’est Adrien
+# 👋 Salut, moi c’est Adrien Le Clech
 
-🎓 En formation **Développeur Web & Web Mobile (DWWM)** à l’**ENI Rennes** (reconversion professionnelle).  
-💡 J’aime construire des applications **claires, robustes et maintenables**, du front au back.  
-🎯 **Recherche de stage : du 20/04/2026 au 12/06/2026**
-
----
-
-## 🚀 Stack & outils
-
-### Front-end
-- HTML, CSS, JavaScript, TypeScript
-- Bootstrap
-
-### Back-end
-- PHP (Symfony)
-- Java (Spring Boot)
-
-### Bases de données
-- MySQL, SQL Server, MongoDB
-
-### Méthodes & outils
-- Git (GitHub / GitLab)
-- Agile (Scrum), UML
-- IDE : Visual Studio Code, JetBrains (IntelliJ / PhpStorm)
-- CMS : WordPress
-- ORM : Doctrine
+🎓 Développeur Web & Web Mobile en formation à l’ENI Rennes dans le cadre d’une reconversion professionnelle.
+💡 Passionné par le développement fullstack, j’aime concevoir des applications modernes, maintenables et centrées sur l’expérience utilisateur.
+🎯 Recherche d’une alternance **Rentrée septembre 2026**.
 
 ---
 
-## 🧩 Projets 
+# 🚀 Stack technique
 
-- 🕹️ **Memory (JS)** — jeu type “Memory” en HTML/CSS/JavaScript  
-- 💰 **Site d’enchères** — Java / Spring Boot + SQL Server (projet en équipe)  
-- 📅 **Organisation d’événements** — PHP / Symfony + MySQL (projet en équipe)  
-- 🌐 **Portfolio** — mes projets et parcours  
-  Site : https://tymy.fr
+## Front-end
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Bootstrap
+
+## Back-end
+
+* PHP / Symfony
+* Java / Spring Boot
+
+## Bases de données
+
+* MySQL
+* SQL Server
+* MongoDB
+
+## Outils & méthodes
+
+* Git / GitHub / GitLab
+* Agile / Scrum
+* UML
+* Doctrine ORM
+* WordPress
+
+## Environnements
+
+* Visual Studio Code
+* IntelliJ IDEA
+* PhpStorm
 
 ---
 
-## 📫 Me contacter
-- LinkedIn : www.linkedin.com/in/alc-tymy
-- Email : alc.theclech@gmail.com
-- GitHub : https://github.com/ALC-Tymy
+# 🧩 Projets
+
+## 🕹️ Memory Game
+
+Jeu interactif développé en HTML, CSS et JavaScript avec manipulation du DOM et logique algorithmique.
+
+## 💰 Site d’enchères
+
+Application Java / Spring Boot avec SQL Server en architecture multicouche.
+Projet collaboratif en équipe.
+
+## 📅 Plateforme d’organisation d’événements
+
+Développement d’une application Symfony avec gestion :
+
+* utilisateurs
+* événements
+* boutique
+* système de donation
+* alertes
+
+Projet collaboratif réalisé en PHP / Symfony + MySQL.
+
+## 🌐 Portfolio
+
+Présentation de mon parcours, compétences et projets.
+
+🔗 https://tymy.fr
 
 ---
 
-⭐ Si tu veux échanger ou me faire un retour sur un repo, n’hésite pas !
+# 📫 Me contacter
+
+* LinkedIn : https://www.linkedin.com/in/alc-tymy
+* GitHub : https://github.com/ALC-Tymy
+* Portfolio : https://tymy.fr
+* Email : [alc.theclech@gmail.com](mailto:alc.theclech@gmail.com)
+
+---
+
+⭐ N’hésite pas à explorer mes repositories ou à me contacter pour échanger autour du développement web et logiciel.

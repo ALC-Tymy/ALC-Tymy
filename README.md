@@ -43,6 +43,9 @@ Je recherche actuellement une alternance afin de poursuivre ma montée en compé
 
 ### 🦌 SOS Faons Bretagne
 🔗 **Site web :** https://sosfaonsbretagne.fr
+<br>
+🔗 **Repository :** https://github.com/AdrienQ18/sosfaonsbretagne
+
 > Site web associatif développé avec Symfony pour une association de protection de la faune sauvage.
 >
 > **Fonctionnalités :**
@@ -57,7 +60,7 @@ Je recherche actuellement une alternance afin de poursuivre ma montée en compé
 ---
 
 ### 🔨 AMA Enchères
-🔗 **Repository :** https://github.com/ALC-Tymy/ama-encheres
+🔗 **Repository :** [https://github.com/ALC-Tymy/Encheres](https://github.com/ALC-Tymy/Encheres)
 > Application d'enchères entre particuliers développée en Java.
 >
 > **Fonctionnalités :**
@@ -73,7 +76,7 @@ Je recherche actuellement une alternance afin de poursuivre ma montée en compé
 ---
 
 ### 🎉 On s'fait ça
-🔗 **Repository :** https://github.com/ArthurRughoobur/sortir
+🔗 **Repository :** [https://github.com/ArthurRughoobur/sortir](https://github.com/ArthurRughoobur/sortir)
 > Application de gestion d'événements développée durant ma formation.
 >
 > **Fonctionnalités :**
@@ -87,7 +90,7 @@ Je recherche actuellement une alternance afin de poursuivre ma montée en compé
 ---
 
 ### 🧠 ENI Memory
-🔗 **Repository :** https://github.com/ALC-Tymy/RD2WM_Memroy
+🔗 **Repository :** [https://github.com/ALC-Tymy/RD2WM_Memroy](https://github.com/ALC-Tymy/RD2WM_Memroy)
 > Jeu de mémoire interactif réalisé pour l'apprentissage du JavaScript.
 >
 > **Fonctionnalités :**

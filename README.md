@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 Salut, moi c'est Adrien Le Clech
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=200&section=header&text=Adrien%20Le%20Clech&fontSize=50&fontColor=ffffff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Développeur+Web+%26+Web+Mobile;En+reconversion&center=true&width=700&height=50)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Reconversion+professionnelle&center=true&width=700&height=50)](https://git.io/typing-svg)

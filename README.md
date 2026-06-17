@@ -2,9 +2,10 @@
 
 # 👋 Salut, moi c'est Adrien Le Clech
 
-### 💻 Développeur Web & Web Mobile
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Développeur+Web+%26+Web+Mobile;En+reconversion+professionnelle;Recherche+une+alternance+CDA+2026;Symfony+%7C+Spring+Boot+%7C+JavaScript&center=true&width=700&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Développeur+Web+%26+Web+Mobile;En+reconversion&center=true&width=700&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Reconversion+professionnelle&center=true&width=700&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Recherche+une+alternance+CDA+2026&center=true&width=700&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Symfony+%7C+Spring+Boot+%7C+JavaScript&center=true&width=700&height=50)](https://git.io/typing-svg)
 
 <br>
 

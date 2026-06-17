@@ -113,28 +113,6 @@ Jeu de mémoire interactif.
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALC-Tymy&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALC-Tymy&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ALC-Tymy&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📫 Me contacter
 
 📧 **Email :** [alc.theclech@gmail.com](mailto:alc.theclech@gmail.com)

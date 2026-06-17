@@ -1,81 +1,156 @@
-# Salut, moi c’est Adrien Le Clech
+<div align="center">
 
-Développeur Web & Web Mobile en formation à l’ENI Rennes, en reconversion professionnelle.
+# 👋 Salut, moi c'est Adrien Le Clech
 
-J’aime concevoir des applications web modernes, maintenables et utiles, avec une attention particulière portée à l’expérience utilisateur, à la clarté du code et à la progression continue.
+### 💻 Développeur Web & Web Mobile
 
-Je recherche une alternance en développement web / logiciel pour la rentrée 2026.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Développeur+Web+%26+Web+Mobile;En+reconversion+professionnelle;Recherche+une+alternance+CDA+2026;Symfony+%7C+Spring+Boot+%7C+JavaScript" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Clech-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/alc-tymy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adrienleclech.fr-00C853?style=for-the-badge\&logo=google-chrome)](https://adrienleclech.fr)
+[![GitHub](https://img.shields.io/badge/GitHub-ALC--Tymy-181717?style=for-the-badge\&logo=github)](https://github.com/ALC-Tymy)
+
+</div>
 
 ---
 
-## Stack technique
+## 🚀 À propos de moi
+
+Développeur Web & Web Mobile en formation à l'ENI Rennes dans le cadre d'une reconversion professionnelle.
+
+Passionné par le développement d'applications web modernes, j'aime concevoir des solutions :
+
+* 🎯 Utiles
+* 🧹 Maintenables
+* ⚡ Performantes
+* 🎨 Agréables à utiliser
+
+Je recherche actuellement une **alternance Concepteur Développeur d'Applications (CDA)** pour la rentrée 2026.
+
+---
+
+## 🛠️ Stack Technique
 
 ### Front-end
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Bootstrap
-- Thymeleaf
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap" />
+</p>
 
 ### Back-end
-- PHP / Symfony
-- Java / Spring Boot
-- Spring Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,symfony,java,spring" />
+</p>
 
 ### Bases de données
-- MySQL
-- SQL Server
-- MongoDB
 
-### Outils & méthodes
-- Git / GitHub / GitLab
-- Agile / Scrum
-- UML
-- Doctrine ORM
-- Gradle
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Environnements
-- Visual Studio Code
-- IntelliJ IDEA
-- PhpStorm
-- Eclipse
+### Outils
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,phpstorm,eclipse" />
+</p>
 
 ---
 
-## Projets
+## 📂 Projets
 
-### SOS Faons Bretagne
-Site associatif développé avec Symfony, intégrant des fonctionnalités de dons, précommandes et gestion de contenus.
+### 🦌 SOS Faons Bretagne
 
-Stack : Symfony, PHP, Twig, MySQL.
+Site associatif permettant :
 
-### AMA Enchères
-Application web d’enchères entre particuliers développée en Java / Spring Boot.
+* Gestion des dons
+* Précommandes
+* Gestion des utilisateurs
+* Administration complète
 
-Fonctionnalités : authentification, création de ventes, enchères avec portefeuille de points, remboursement automatique de l’ancien meilleur enchérisseur, dashboard utilisateur et statuts automatisés.
-
-Stack : Java, Spring Boot, Spring Security, Thymeleaf, SQL Server, Gradle.
-
-### On s’fait ça
-Application d’organisation d’événements avec gestion des utilisateurs, inscriptions, filtres et événements.
-
-Stack : Symfony, PHP, MySQL.
-
-### ENI Memory
-Jeu de mémoire interactif développé en HTML, CSS et JavaScript, avec manipulation du DOM et logique de jeu.
-
-Stack : HTML, CSS, JavaScript, Bootstrap.
+**Stack :** Symfony • PHP • Twig • MySQL
 
 ---
 
-## Me contacter
+### 🔨 AMA Enchères
 
-- LinkedIn : https://www.linkedin.com/in/alc-tymy
-- GitHub : https://github.com/ALC-Tymy
-- Portfolio : https://adrienleclech.fr
-- Email : [alc.theclech@gmail.com](mailto:alc.theclech@gmail.com)
+Plateforme d'enchères entre particuliers.
+
+Fonctionnalités :
+
+* Authentification sécurisée
+* Gestion des ventes
+* Enchères en temps réel
+* Portefeuille de points
+* Dashboard utilisateur
+
+**Stack :** Java • Spring Boot • Spring Security • Thymeleaf • SQL Server
 
 ---
 
-N’hésite pas à explorer mes repositories ou à me contacter pour échanger autour du développement web et logiciel.
+### 🎉 On s'fait ça
+
+Application d'organisation d'événements.
+
+Fonctionnalités :
+
+* Gestion des événements
+* Inscriptions
+* Filtres avancés
+* Gestion utilisateurs
+
+**Stack :** Symfony • PHP • MySQL
+
+---
+
+### 🧠 ENI Memory
+
+Jeu de mémoire interactif.
+
+**Stack :** HTML • CSS • JavaScript • Bootstrap
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALC-Tymy&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALC-Tymy&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ALC-Tymy&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Me contacter
+
+📧 **Email :** [alc.theclech@gmail.com](mailto:alc.theclech@gmail.com)
+
+🌐 **Portfolio :** https://adrienleclech.fr
+
+💼 **LinkedIn :** https://www.linkedin.com/in/alc-tymy
+
+🐙 **GitHub :** https://github.com/ALC-Tymy
+
+---
+
+<div align="center">
+
+### Merci de votre visite 👋
+
+⭐ N'hésitez pas à explorer mes projets et à me contacter.
+
+</div>

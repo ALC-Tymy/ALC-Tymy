@@ -1,141 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=200&section=header&text=Adrien%20Le%20Clech&fontSize=50&fontColor=ffffff" />
-
-# 👋 Salut, moi c'est Adrien Le Clech
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=220&section=header&text=Adrien%20Le%20Clech&fontSize=50&fontColor=ffffff" />
 
 🌍 Rennes, Bretagne  
-🎓 Formation CDA - ENI Rennes  
+🎓 Formation Concepteur Développeur d'Applications (CDA) - ENI Rennes  
 🔎 Recherche une alternance dès août 2026  
-🚀 Reconversion vers le développement logiciel  
+💼 Ancien coordinateur de production reconverti dans le développement logiciel
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Développeur+Web+%26+Web+Mobile;En+reconversion+professionnelle;Recherche+une+alternance+CDA+2026;Symfony+%7C+Spring+Boot+%7C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Développeur+Web+%26+Web+Mobile;Passionné+par+le+développement+logiciel;Recherche+une+alternance+CDA+2026;Symfony+%7C+Spring+Boot+%7C+JavaScript)](https://git.io/typing-svg)
 
-<br><br>
+<br>
+
+<img src="https://img.shields.io/badge/ALTERNANCE-Recherche_active-success?style=for-the-badge" />
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrien%20Le%20Clech-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alc-tymy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adrienleclech.fr-00C853?style=for-the-badge&logo=google-chrome)](https://adrienleclech.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-ALC--Tymy-181717?style=for-the-badge&logo=github)](https://github.com/ALC-Tymy)
 
-<br><br>
+<br>
 
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,symfony,java,spring,mysql,mongodb,git,github,vscode,idea,phpstorm" />
 
 </div>
 
 ---
 
-## 🚀 À propos de moi
+# 🚀 À propos de moi
 
-Développeur Web & Web Mobile en formation à l'ENI Rennes dans le cadre d'une reconversion professionnelle.
+Développeur Web & Web Mobile en reconversion professionnelle, actuellement en formation CDA à l'ENI Rennes.
 
-Passionné par le développement d'applications web modernes, j'aime concevoir des solutions :
+J'apprécie particulièrement la conception d'applications web et logicielles modernes, performantes et maintenables. Mon objectif est de développer des solutions utiles, avec une attention particulière portée à la qualité du code, à l'expérience utilisateur et à l'amélioration continue.
 
-* 🎯 Utiles
-* 🧹 Maintenables
-* ⚡ Performantes
-* 🎨 Agréables à utiliser
-
-Je recherche actuellement une **alternance Concepteur Développeur d'Applications (CDA)** pour la rentrée 2026.
+Je recherche actuellement une alternance afin de poursuivre ma montée en compétences et contribuer à des projets concrets au sein d'une équipe de développement.
 
 ---
 
-## 🛠️ Stack Technique
-
-### Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap" />
-</p>
-
-### Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,symfony,java,spring" />
-</p>
-
-### Bases de données
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Outils
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,phpstorm,eclipse" />
-</p>
-
----
-
-## 📂 Projets
+# 📂 Projets
 
 ### 🦌 SOS Faons Bretagne
-
-Site associatif permettant :
-
-* Gestion des dons
-* Précommandes
-* Gestion des utilisateurs
-* Administration complète
-
-**Stack :** Symfony • PHP • Twig • MySQL
+🔗 **Site web :** https://sosfaonsbretagne.fr
+> Site web associatif développé avec Symfony pour une association de protection de la faune sauvage.
+>
+> **Fonctionnalités :**
+> - Gestion des dons
+> - Précommandes en ligne
+> - Gestion des utilisateurs
+> - Interface d'administration
+> - Intégration HelloAsso
+>
+> **Stack :** Symfony • PHP • Twig • MySQL
 
 ---
 
 ### 🔨 AMA Enchères
-
-Plateforme d'enchères entre particuliers.
-
-Fonctionnalités :
-
-* Authentification sécurisée
-* Gestion des ventes
-* Enchères en temps réel
-* Portefeuille de points
-* Dashboard utilisateur
-
-**Stack :** Java • Spring Boot • Spring Security • Thymeleaf • SQL Server
+🔗 **Repository :** https://github.com/ALC-Tymy/ama-encheres
+> Application d'enchères entre particuliers développée en Java.
+>
+> **Fonctionnalités :**
+> - Authentification sécurisée
+> - Gestion des ventes
+> - Système d'enchères
+> - Portefeuille de crédits
+> - Dashboard utilisateur
+> - Gestion automatisée des statuts
+>
+> **Stack :** Java • Spring Boot • Spring Security • Thymeleaf • SQL Server
 
 ---
 
 ### 🎉 On s'fait ça
-
-Application d'organisation d'événements.
-
-Fonctionnalités :
-
-* Gestion des événements
-* Inscriptions
-* Filtres avancés
-* Gestion utilisateurs
-
-**Stack :** Symfony • PHP • MySQL
+🔗 **Repository :** https://github.com/ArthurRughoobur/sortir
+> Application de gestion d'événements développée durant ma formation.
+>
+> **Fonctionnalités :**
+> - Création et gestion d'événements
+> - Gestion des inscriptions
+> - Filtres de recherche
+> - Gestion des utilisateurs
+>
+> **Stack :** Symfony • PHP • MySQL
 
 ---
 
 ### 🧠 ENI Memory
-
-Jeu de mémoire interactif.
-
-**Stack :** HTML • CSS • JavaScript • Bootstrap
+🔗 **Repository :** https://github.com/ALC-Tymy/RD2WM_Memroy
+> Jeu de mémoire interactif réalisé pour l'apprentissage du JavaScript.
+>
+> **Fonctionnalités :**
+> - Manipulation du DOM
+> - Gestion des événements
+> - Logique de jeu
+> - Responsive Design
+>
+> **Stack :** HTML • CSS • JavaScript • Bootstrap
 
 ---
-## 🎯 Recherche d'alternance
 
-Je recherche une alternance en Conception et Développement d'Applications à partir d'août 2026.
+# 🎯 Recherche d'alternance
 
-📍 Bretagne (Rennes et alentours)
+Je recherche une alternance en **Conception et Développement d'Applications** à partir d'août 2026.
 
-💼 Développement Web & Logiciel
+📍 Localisation : Rennes et Bretagne
 
-## 📫 Me contacter
+💻 Développement Web & Logiciel
+
+🤝 Ouvert aux opportunités en PHP/Symfony, Java/Spring Boot ou technologies associées
+
+---
+
+# 📫 Me contacter
 
 📧 **Email :** [alc.theclech@gmail.com](mailto:alc.theclech@gmail.com)
 
@@ -151,6 +128,8 @@ Je recherche une alternance en Conception et Développement d'Applications à pa
 
 ### Merci de votre visite 👋
 
-⭐ N'hésitez pas à explorer mes projets et à me contacter.
+💬 Ouvert aux échanges, collaborations et opportunités d'alternance.
+
+⭐ N'hésitez pas à parcourir mes projets et à me contacter.
 
 </div>

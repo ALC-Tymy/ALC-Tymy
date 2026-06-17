@@ -4,7 +4,7 @@
 
 ### 💻 Développeur Web & Web Mobile
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Développeur+Web+%26+Web+Mobile;En+reconversion+professionnelle;Recherche+une+alternance+CDA+2026;Symfony+%7C+Spring+Boot+%7C+JavaScript" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Développeur+Web+%26+Web+Mobile;En+reconversion+professionnelle;Recherche+une+alternance+CDA+2026;Symfony+%7C+Spring+Boot+%7C+JavaScript&center=true&width=700&height=50)](https://git.io/typing-svg)
 
 <br>
 
